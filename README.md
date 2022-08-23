@@ -1,3 +1,9 @@
+<p align="center">
+    <img src="https://github.com/Notlynoel/Notlynoel/blob/main/assets/header.gif" alt="main-gift">
+</p>
+
+<hr>
+
 - 👋 Hi, I’m @Notlynoel
 - 👀 I’m interested in project Java, Spring and Spring Boot.
 - 🌱 I’m currently learning Kubernetes...
