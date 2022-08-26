@@ -4,8 +4,8 @@
 
 <hr>
 
-Olá a todos, me chamo Léo Hollanda, sou pós-graduado em Desenvolvimento em Linguagem Java pela Universidade Positivo e graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista.
-Portanto, sou desenvolvedor de software java backend seguindo uma trilha com: **Java/J2EE, Spring, Spring Boot, JPA, Maven, MySQL, HTML, CSS, Bootstrap**. Além disso, tenho gostado bastante da trilha de DevOps com foco em **Docker, Kubernetes, Terraform, Ansible, AWS e Cloud Oracle**.
+Olá a todos, me chamo **Léo Hollanda**, sou pós-graduado em Desenvolvimento em Linguagem Java pela Universidade Positivo e graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista.
+Portanto, sou desenvolvedor de software java backend seguindo uma trilha com: *Java/J2EE, Spring, Spring Boot, JPA, Maven, MySQL, HTML, CSS, Bootstrap*. Além disso, tenho gostado bastante da trilha de DevOps com foco em *Docker, Kubernetes, Terraform, Ansible, AWS e Cloud Oracle*.
 
 - 😄 Quero resaltar que este ano tirei minha primeira Certificação: **Oracle Cloud Infrastructure Foundations 2021 Associate [1Z0-
 1085-21]**
@@ -21,6 +21,9 @@ Portanto, sou desenvolvedor de software java backend seguindo uma trilha com: **
 - :running: Curiosidade: gosto de fazer corrida de rua aos domingos de **25KM a 30KM**
 
 #
+
+<!-- Início dos ícones -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notlynoel" alt="notlynoel" /></a> </p> <!-- Fin dos ícones -->
 
 🛠️ *Linguagens e ferramentas que já usei em projetos pessoais ou apenas testei para fins de aprendizagem!* 
 
