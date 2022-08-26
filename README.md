@@ -4,23 +4,23 @@
 
 <hr>
 
-- 👋 Hi, I’m @Notlynoel
-- 👀 I’m interested in project Java, Spring and Spring Boot.
-- 🌱 I’m currently learning Kubernetes...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Olá a todos, me chamo Léo Hollanda, sou pós-graduado em Desenvolvimento em Linguagem Java pela Universidade Positivo e graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista.
+Portanto, sou desenvolvedor de software java backend seguindo uma trilha com: **Java/J2EE, Spring, Spring Boot, JPA, Maven, MySQL, HTML, CSS, Bootstrap**. Além disso, tenho gostado bastante da trilha de DevOps com foco em **Docker, Kubernetes, Terraform, Ansible, AWS e Cloud Oracle**.
 
-<!---
-Notlynoel/Notlynoel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--
- <div>
-  <a href="https://github.com/Notlynoel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Notlynoel&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notlynoel&layout=compact&langs_count=7&theme=highcontrast"/>
-</div> -->
+- 😄 Quero resaltar que este ano tirei minha primeira Certificação: **Oracle Cloud Infrastructure Foundations 2021 Associate [1Z0-
+1085-21]**
+- 🔭 Atualmente estou estudando para tirar minha primeira **Certificação Java**
+- 💻 Além disso, estou estudando para tirar minha primeira **Certificação AWS, Cloud Practitoner**
+- 🌱 Além do mais, estou estudando o desenvolvimento de **API REST com Spring/Spring Boot**
+- 🔭 Também, estou fazendo um curso de **Docker** e **Kubernetes** 
+- 🌱 Além de tudo, estou fazendo um **curso de Inglês**
+- 💬 Quer bater um papo sobre uma porta aberta ou sobre caminhar batendo nas portas juntos? **[Instagram](https://www.instagram.com/notlynoel/)**
+- 📫 Como me encontrar? **leo@notlinoel.com.br**
+- 😄 Pronomes: **He/His**
+- :soccer: Curiosidade: **gosto de futebol**
+- :running: Curiosidade: gosto de fazer corrida de rua aos domingos de **25KM a 30KM**
 
+#
 
 🛠️ *Linguagens e ferramentas que já usei em projetos pessoais ou apenas testei para fins de aprendizagem!* 
 
