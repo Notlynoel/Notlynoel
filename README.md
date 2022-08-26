@@ -21,7 +21,8 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notlynoel&layout=compact&langs_count=7&theme=highcontrast"/>
 </div> -->
 
-# 🛠️ Languages and Tools I've Used or Tested
+
+🛠️ *Linguagens e ferramentas que já usei em projetos pessoais ou apenas testei para fins de aprendizagem!* 
 
 ## 👨‍💻 Backend 
 
@@ -33,7 +34,7 @@ You can click the Preview link to take a look at your changes.
     <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-80ea6c?logo=hibernate&logoColor=white"></a>
     <a href="#"><img alt="Spring JPA" src="https://img.shields.io/badge/Spring JPA-80ea6f?logo=spring&logoColor=white"></a>      
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    
         
 </p>
 
@@ -47,6 +48,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="Typescript" src="https://img.shields.io/badge/PrimeFaces-42a5f5.svg?logo=primefaces&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-42a5f5.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="JavaServer Faces" src="https://img.shields.io/badge/JavaServerFaces-42a5f5.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 
 </p>
 
