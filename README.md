@@ -18,7 +18,7 @@ Portanto, sou desenvolvedor de software java backend seguindo uma trilha com: *J
 - 📫 Como me encontrar? **leo@notlinoel.com.br**
 - 😄 Pronomes: **He/His**
 - :soccer: Curiosidade: **gosto de futebol**
-- :running: Curiosidade: gosto de fazer corrida de rua aos domingos de **25KM a 30KM**
+- :running: Curiosidade: gosto de fazer corrida de rua de **25KM a 30KM**
 
 #
 
