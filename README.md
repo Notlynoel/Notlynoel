@@ -16,7 +16,7 @@ Portanto, sou desenvolvedor de software java backend seguindo uma trilha com: *J
 - 🌱 Além de tudo, estou fazendo um **curso de Inglês**
 - 💬 Quer bater um papo sobre uma porta aberta ou sobre caminhar batendo nas portas juntos? **[Instagram](https://www.instagram.com/notlynoel/)**
 - 📫 Como me encontrar? **leo@notlinoel.com.br**
-- 😄 Pronomes: **He/His**
+- 😄 Pronomes: **Ele/Dele**
 - :soccer: Curiosidade: **gosto de futebol**
 - :running: Curiosidade: gosto de fazer corrida de rua de **25KM a 30KM**
 
