@@ -10,7 +10,7 @@ Portanto, sou desenvolvedor de software java backend seguindo uma trilha com: *J
 - 😄 Quero resaltar que este ano tirei minha primeira Certificação: **Oracle Cloud Infrastructure Foundations 2021 Associate [1Z0-
 1085-21]**
 - 🔭 Atualmente estou estudando para tirar minha primeira **Certificação Java**
-- 💻 Além disso, estou estudando para tirar minha primeira **Certificação AWS, Cloud Practitoner**
+- 💻 Além disso, estou estudando para tirar minha primeira certificação **AWS Certified Cloud Practitioner**
 - 🌱 Além do mais, estou estudando o desenvolvimento de **API REST com Spring/Spring Boot**
 - 🔭 Também, estou fazendo um curso de **Docker** e **Kubernetes** 
 - 🌱 Além de tudo, estou fazendo um **curso de Inglês**
