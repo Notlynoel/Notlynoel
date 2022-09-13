@@ -7,7 +7,7 @@
 Olá a todos, me chamo **Léo Hollanda**, sou pós-graduado em Desenvolvimento em Linguagem Java pela Universidade Positivo e graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista.
 Portanto, sou desenvolvedor de software java backend seguindo uma trilha com: *Java/J2EE, Spring, Spring Boot, JPA, Maven, MySQL, HTML, CSS, Bootstrap*. Além disso, tenho gostado bastante da trilha de DevOps com foco em *Docker, Kubernetes, Terraform, Ansible, AWS e Cloud Oracle*.
 
-- 😄 Quero ressaltar que recentemente tirei minha primeira Certificação **AWS Certified Cloud Practitioner**
+- 😄 Quero ressaltar que recentemente tirei minha primeira Certificação [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/898dd017-4e29-4979-8754-66bf2434b85f/public_url)
 - 😄 Também, quero salientar que este ano tirei minha primeira Certificação: **Oracle Cloud Infrastructure Foundations 2021 Certified Associate**
 - 😄 Além disso, vale destacar que tirei minha primeira certificação **Java Explorer**
 - 🌱 Além do mais, estou estudando o desenvolvimento de **API REST com Spring/Spring Boot**
