@@ -11,7 +11,7 @@ Portanto, sou desenvolvedor de software java backend seguindo uma trilha com: *J
 - 😄 Também, quero salientar que este ano tirei minha primeira Certificação: **Oracle Cloud Infrastructure Foundations 2021 Certified Associate**
 - 😄 Além disso, vale destacar que tirei minha primeira certificação **Java Explorer**
 - 🌱 Além do mais, estou estudando o desenvolvimento de **API REST com Spring/Spring Boot**
-- 🔭 Também, estou fazendo um curso de **Docker** e **Kubernetes** 
+- 🌱 Também, estou fazendo um curso de **Docker** e **Kubernetes** 
 - 🌱 Além de tudo, estou fazendo um **curso de Inglês**
 - 💬 Quer bater um papo sobre uma porta aberta ou sobre caminhar batendo nas portas juntos? **[Instagram](https://www.instagram.com/notlynoel/)**
 - 📫 Como me encontrar? **leo@notlinoel.com.br**
@@ -108,7 +108,7 @@ Portanto, sou desenvolvedor de software java backend seguindo uma trilha com: *J
 
 
 #
-<!-- Área do gráfico -->
+<!-- Área do gráfico 🔭 -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Léo Hollanda's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Notlynoel&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 #
