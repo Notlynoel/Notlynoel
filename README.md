@@ -109,12 +109,12 @@ Portanto, sou desenvolvedor de software java backend seguindo uma trilha com: *J
 
 #
 <!-- Área do gráfico 🔭 -->
-![ ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notlynoel&theme=monokai)
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notlynoel&theme=monokai"/></p>
 
 #
 
 <!-- Ára de reviews -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notlynoel&label=Profile%20views&color=0e75b6&style=flat" alt="notlynoel" /></p> 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=notlynoel&label=Profile%20views&color=0e75b6&style=flat" alt="notlynoel" /></p> 
 
 <!-- Ára de contate-me -->
 **<h3 align="left">Connect with me:</h3>**
