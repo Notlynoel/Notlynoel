@@ -7,7 +7,7 @@
 Sou pós-graduado em Desenvolvimento em Linguagem Java pela Universidade Positivo e graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista. Atualmente estou cursando uma nova graduação em Big Data e Inteligência Analítica pela PUCPR - Pontifícia Universidade Católica do Paraná
 Portanto, sou desenvolvedor de software java backend seguindo uma trilha com: *Java EE, Spring, Spring Boot, JPA, Maven, MySQL, HTML, CSS, Bootstrap*. Além disso, tenho gostado bastante da trilha de DevOps com foco em *Docker, Kubernetes, Terraform, Ansible, AWS e Cloud Oracle*.
 - 😄 Quero ressaltar que tirei minha primeira Certificação [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/898dd017-4e29-4979-8754-66bf2434b85f/public_url)
-- 😄 Também, quero salientar que tirei a certificação: **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
+- 😄 Também, quero salientar que tirei a certificação: **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
 - 😄 Além disso, vale destacar que ganhei o **Badge Java Explorer**
 - 💬 Quer bater um papo sobre uma porta aberta ou sobre caminhar batendo nas portas juntos? **[Instagram](https://www.instagram.com/notlynoel/)**
 - 📫 Como me encontrar? **leo@notlinoel.com.br**
